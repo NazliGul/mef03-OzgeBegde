@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Progress Journal
 
 ### WEEK 1
 
