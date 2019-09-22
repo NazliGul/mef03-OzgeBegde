@@ -1,9 +1,0 @@
-## **Assignment 1: RMarkdown Assignment** 
-
-###_Özge Beðde_
-
-###_22.09.2019_
-
-I am working at Anadolu Insurance Company as a data analyst. My main responsibilities are collaborating with the IT teamto develop and optimize data warehouse and participating in IT projects as a data analyst. I am really interested in data science and my goal is to become a data sicentist.
-
-[useR! 2019 Toulouse - Talk Education](https://www.youtube.com/watch?v=tYGLYdeFJMc)
