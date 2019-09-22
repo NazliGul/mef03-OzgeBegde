@@ -2,6 +2,6 @@
 
 ### WEEK 1
 
-[Link]Homework.html
+[Link](Homework.html)
 
 
