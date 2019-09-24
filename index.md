@@ -2,6 +2,6 @@
 
 ### WEEK 1
 
-[Homework](RMarkdown Homework.html)
+[RMarkdown Homework](RMarkdown Homework.html)
 
 
