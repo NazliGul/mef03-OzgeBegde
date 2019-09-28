@@ -4,4 +4,6 @@
 
 [RMarkdown Homework](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)
 
+[Deneme](RMarkdown_Homework.html)
+
 
