@@ -2,6 +2,6 @@
 
 ### WEEK 1
 
-[RMarkdown Homework](https://github.com/pjournal/mef03-OzgeBegde/blob/master/RMarkdown_Homework.html)
+[RMarkdown Homework](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)
 
 
