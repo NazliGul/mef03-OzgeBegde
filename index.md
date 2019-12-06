@@ -10,4 +10,4 @@
 
 ### Assignment 3
 
-[Join Homework](tennis_join_hw.html)
+[Join Homework]
