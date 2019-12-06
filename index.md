@@ -10,4 +10,4 @@
 
 ### Assignment 3
 
-[Join Homework]
+[Join Homework](Join_Assignment.html)
